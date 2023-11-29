@@ -1,2 +1,3 @@
-# hello-wourld
-I upload test 
+# hello-world
+
+初めてGitHubを利用するためのテストリポジトリです。
